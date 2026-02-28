@@ -1,8 +1,7 @@
-## Hi there 👋
+## Hey, I'm Jake!
 
 Journalist based in Chicago. I use data, mapping and audience engagement to bring readers closer to the news.
 
-- I'm currently a newsletter intern at [Block Club Chicago](https://blockclubchicago.org)
 - I'm currently learning geographic information systems, R and interactive news design
 - Always down to chat about audience engagement, news product development or data journalism
 - Seeking full-time and contract opportunities
