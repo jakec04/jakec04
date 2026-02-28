@@ -1,5 +1,7 @@
 ## Hey, I'm Jake!
 
+![Banner](https://raw.githubusercontent.com/jakec04/jakec04/main/jake_banner.jpg)
+
 Journalist based in Chicago. I use data, mapping and audience engagement to bring readers closer to the news.
 
 - I'm currently learning geographic information systems, R and interactive news design
