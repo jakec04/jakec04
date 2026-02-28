@@ -12,4 +12,3 @@ Journalist based in Chicago. I use data, mapping and audience engagement to brin
 ### Coding Project I'm Proud Of
 - **Sports Betting Tax News App** — Interactive tool (HTML/JS) visualizing Illinois' per-wager gambling tax. [Reporting](https://www.nbcchicago.com/chicago-sports-bears-sox-cubs-bulls-blackhawks/illinois-quietly-increases-cost-of-online-betting-and-chicago-may-be-next/3852846/) · [Repo](https://github.com/jakec04/wagering-tax-app)
 
-Header map: Chicago Transit Authority. Font by [Steve Shanabruch](https://www.thechicagoneighborhoods.com/fonts).
